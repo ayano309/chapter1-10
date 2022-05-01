@@ -68,10 +68,10 @@ footer{
   
   main{
     width: 100%;
-    display: flex;
+    /* display: flex;
     flex-direction: column;
-    justify-content: center;
-  
+    justify-content: center; */
+    display: block;
   }
   
   .box-item{
